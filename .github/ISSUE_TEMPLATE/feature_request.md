@@ -1,5 +1,6 @@
 ---
 name: "✨ Feature Request"
+about: 기능 제안/요청
 description: "새로운 기능 추가 또는 기존 기능 확장"
 labels: ["✨feat", "⏳status:todo"]
 ---
