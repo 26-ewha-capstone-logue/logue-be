@@ -1,4 +1,4 @@
-package com.capstone.logue.config;
+package com.capstone.logue.global.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.Components;

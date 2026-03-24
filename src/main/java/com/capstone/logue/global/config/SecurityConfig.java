@@ -1,4 +1,4 @@
-package com.capstone.logue.config;
+package com.capstone.logue.global.config;
 
 import java.util.List;
 
@@ -35,7 +35,8 @@ public class SecurityConfig {
 
         config.setAllowedOriginPatterns(List.of(
                 "http://localhost:5173",
-                "http://localhost:3000"
+                "http://localhost:3000",
+                "https://logue-docs.vercel.app/"
         ));
         config.setAllowCredentials(true);
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
