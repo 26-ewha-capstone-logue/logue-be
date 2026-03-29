@@ -48,3 +48,6 @@ out/
 !.env.example
 application-secret.yml
 application-local.properties
+
+# oh-my-claudecode
+.omc
